@@ -1,0 +1,98 @@
+body{
+  /*background-color: #0d0d0d;*/
+  background-image:url("binding_dark_@2X.png");
+}
+
+h1, h2, h3, h4, h6 {
+  color:#4dd0e1;
+  text-align:center;
+}
+
+h5{
+  color:#4dd0e1;
+}
+
+li{
+  color:#ffffff;
+}
+
+#homeButton{
+  text-align:center;
+}
+
+.container{
+  margin-top:80px;
+  margin-bottom:100px;
+}
+
+#title{
+  margin-bottom: 60px;
+}
+/* /* label color */
+
+.input-field label {
+    color: #9e9e9e;
+}
+  
+.select-wrapper .caret{
+  color:#4dd0e1;
+}
+  
+.input-field input[type=text] {
+  /*"Choose Text*/
+  color: #4dd0e1;
+}
+/* label focus color */
+.input-field input[type=text]:focus + label {
+  color: #4dd0e1;
+}
+
+/* label underline focus color */
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #4dd0e1;
+  box-shadow: 0 1px 0 0 #4dd0e1;
+}
+
+/* valid color */
+.input-field input[type=text].valid {
+    /*border-bottom: 1px solid #d500f9;
+    box-shadow: 0 1px 0 0 #d500f9;*/
+  }
+
+.dropdown-content {
+  background-color:none;
+}
+
+.btn {
+  background-color:#4dd0e1;
+}
+
+/* Modal Color */
+.modal {
+  height:800px;
+  background-image:url("binding_dark_@2X.png");
+  text-align:center;
+}
+
+.modal img{
+  width:400px;
+}
+
+.modal-footer {
+  background-image:url("binding_dark_@2X.png");
+}
+
+.modal-footer a {
+  color:#4dd0e1;
+}
+
+#imageDiv{
+
+}
+  
+
+
+   
+
+
+   

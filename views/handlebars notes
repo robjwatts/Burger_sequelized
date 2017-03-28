@@ -1,0 +1,2 @@
+"this.parameter" is referring to the info that is being passed.
+info passed from route/controller page must be an array.
